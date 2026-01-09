@@ -440,14 +440,4 @@ curl -X POST http://localhost:3000/api/subscriptions \
 7. **Business Logic**: Smart quota management and subscription lifecycle handling
 8. **Code Quality**: ESLint and Prettier configured for consistent code style
 
-## License
 
-ISC
-
-## Author
-
-Your Name
-
----
-
-**Note**: This is a demonstration project with mocked OpenAI responses. In production, integrate with the actual OpenAI API and implement proper authentication/authorization mechanisms.
